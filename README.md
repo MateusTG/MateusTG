@@ -2,6 +2,10 @@
 
 Este projeto realiza análise e agrupamento de dados utilizando o algoritmo **K-Means**, focado no reconhecimento de padrões em dados de sensores.
 
+Dataset: [Human Activity Recognition Using Smartphones](https://archive.ics.uci.edu/static/public/240/human+activity+recognition+using+smartphones.zip)
+
+Grupo: 21
+
 ## Bibliotecas Utilizadas
 - **Pandas**: Manipulação de dados e leitura de arquivos.
 - **NumPy**: Operações matemáticas e manipulação de arrays.
